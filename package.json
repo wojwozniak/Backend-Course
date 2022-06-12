@@ -1,10 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "wojwozniak",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"author": "Wojciech Wozniak",
 	"scripts": {
 		"start": "node server.js"
 	},
